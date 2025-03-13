@@ -17,10 +17,10 @@ This project fetches real-time gas prices from the Ethereum network using the [E
 
 ## Features
 
-- Fetches real-time gas prices from Etherscan API
-- Computes transaction costs for different gas price categories
-- Compares smart contract transaction costs with traditional transaction methods
-- Outputs a detailed analysis and comparison
+- Fetches real-time gas prices from Etherscan API.
+- Computes transaction costs for different gas price categories.
+- Compares smart contract transaction costs with traditional transaction methods.
+- Outputs a detailed analysis and comparison.
 
 ## Setup
 
@@ -34,48 +34,34 @@ This project fetches real-time gas prices from the Ethereum network using the [E
 1. Clone the repository:
    ```bash
    git clone https://github.com/CodeEvent/SmartContracts.git
-Navigate to the project directory:
 
-bash
-Copy
-Edit
-cd SmartContracts
-Install the required dependencies:
+   Navigate to the project directory:
+   cd SmartContracts
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Configuration
+   Install the required dependencies:
+   pip install -r requirements.txt
+
+
+
+## Configuration
 Obtain an API key from Etherscan for access to the gas price API.
 Replace the API_KEY variable in the gas_collector.py script with your Etherscan API key.
-Usage
-To run the analysis and fetch transaction costs, use the following command:
 
-bash
-Copy
-Edit
+## Usage
+To run the analysis and fetch transaction costs, use the following command:
 python src/gas_collector.py
+
 The output will display the calculated transaction costs for smart contracts and traditional transactions, as well as the comparison between the two.
 
-Technologies Used
+
+
+## Technologies Used
 Python 3.x
 Requests (for API calls)
 JSON (for parsing API responses)
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-csharp
-Copy
-Edit
-
-### How to Use:
-
-1. Copy this template and save it as `README.md` in your project root directory.
-2. Customize any sections based on your project specifics.
-3. After editing, push the changes to GitHub using:
-
-```bash
-git add README.md
-git commit -m "Added README.md"
-git push origin master
+   
+   
