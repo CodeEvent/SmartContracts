@@ -35,10 +35,12 @@ This project fetches real-time gas prices from the Ethereum network using the [E
    ```bash
    git clone https://github.com/CodeEvent/SmartContracts.git
 
-   Navigate to the project directory:
+2. Navigate to the project directory:
+   ```bash
    cd SmartContracts
 
-   Install the required dependencies:
+3. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
 
 
