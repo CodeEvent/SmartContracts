@@ -43,9 +43,11 @@ This project fetches real-time gas prices from the Ethereum network using the [E
    ```bash
    pip install -r requirements.txt
 
+
 ## Configuration
 Obtain an API key from Etherscan for access to the gas price API.
 Replace the API_KEY variable in the gas_collector.py script with your Etherscan API key.
+
 
 ## Usage
 To run the analysis and fetch transaction costs, use the following command:
@@ -54,11 +56,11 @@ python src/gas_collector.py
 The output will display the calculated transaction costs for smart contracts and traditional transactions, as well as the comparison between the two.
 
 
-
 ## Technologies Used
 Python 3.x
 Requests (for API calls)
 JSON (for parsing API responses)
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
