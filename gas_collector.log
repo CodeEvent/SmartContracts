@@ -1,0 +1,9 @@
+2025-03-13 22:47:58,703 - DEBUG - Starting new HTTPS connection (1): api.etherscan.io:443
+2025-03-13 22:47:59,480 - DEBUG - https://api.etherscan.io:443 "GET /api?module=gastracker&action=gasoracle&apikey=YRUWP747YUS4D3VDZHZQBKNS5C6QXKGFD1 HTTP/11" 200 322
+2025-03-13 22:47:59,484 - INFO - Gas prices data saved to CSV file.
+2025-03-13 22:48:49,673 - DEBUG - Starting new HTTPS connection (1): api.etherscan.io:443
+2025-03-13 22:48:50,442 - DEBUG - https://api.etherscan.io:443 "GET /api?module=gastracker&action=gasoracle&apikey=YRUWP747YUS4D3VDZHZQBKNS5C6QXKGFD1 HTTP/11" 200 347
+2025-03-13 22:48:50,444 - INFO - Gas prices data saved to CSV file.
+2025-03-13 22:49:19,277 - DEBUG - Starting new HTTPS connection (1): api.etherscan.io:443
+2025-03-13 22:49:20,049 - DEBUG - https://api.etherscan.io:443 "GET /api?module=gastracker&action=gasoracle&apikey=YRUWP747YUS4D3VDZHZQBKNS5C6QXKGFD1 HTTP/11" 200 341
+2025-03-13 22:49:20,052 - INFO - Gas prices data saved to CSV file.
