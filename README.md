@@ -44,7 +44,6 @@ This project fetches real-time gas prices from the Ethereum network using the [E
    pip install -r requirements.txt
 
 
-
 ## Configuration
 Obtain an API key from Etherscan for access to the gas price API.
 Replace the API_KEY variable in the gas_collector.py script with your Etherscan API key.
